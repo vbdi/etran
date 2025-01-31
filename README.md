@@ -3,6 +3,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IFpB3-Z99WcmfJG4MEFTrkmdvdHPsYtt?usp=sharing)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/etran-energy-based-transferability-estimation/transferability-on-classification-benchmark)](https://paperswithcode.com/sota/transferability-on-classification-benchmark?p=etran-energy-based-transferability-estimation)
 
+Link to arXiv paper: [https://arxiv.org/abs/2412.17874](https://arxiv.org/abs/2308.02027)
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=56e6645a-8133-49f6-a7ef-d877ef608fa5)
 
 <p align="center">
 <img  src="Figures/ETran.jpg" width="1000">
